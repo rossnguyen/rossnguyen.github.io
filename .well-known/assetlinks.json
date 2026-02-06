@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.test_kyc",
+    "sha256_cert_fingerprints":
+    ["5B:7B:F5:D7:56:84:46:AB:6E:26:52:9E:11:31:EF:5C:4C:DF:4F:AF:A0:97:52:87:61:47:52:9C:38:52:94:45"]
+  }
+}]
